@@ -1,9 +1,9 @@
-# My 2018 Resume
+# My Current Resume
 
-My 2018 JavaScript Software Developer Resume, which is based on an amazing LaTeX template - Awesome CV and it's also a fork of it.
+My current Software Developer Resume, which is based on and forked from an amazing LaTeX template - Awesome CV.
 
-**Updated 2019 version will be added soon!**
+**Updated versions are being uploaded +/- quarterly!**
 
 ## Preview
 
-![Resume Screenshot](2018/resume/resume_preview.png)
+![Resume Screenshot](CurrentResumePreview.png)
